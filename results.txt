@@ -1,0 +1,145 @@
+	Custom model
+0.Angry
+angry1: no face detected
+angry2: angry
+angry3: angry
+angry4: angry
+
+1.Disgust
+disgust1: angry
+disgust2: disgust
+disgust3: angry
+disgust6: angry
+disgust7: Neutral
+disgust9: angry
+
+2.Fear
+fear1: fear
+fear2: disgust
+fear3: fear
+fear11 : no face detected
+fear22: surprise
+
+
+
+
+3.happy
+happy1: no face
+happy2: happy
+happy3: sad
+happy4: no face
+
+
+4. Sad
+sad1:no face
+sad2:Neutral
+sad3:disgust
+sad4:neutral
+sad5: no face
+sad6: no face
+sad7: happy
+sad8: happy
+sad9: happy
+sad11: fearsa
+sad22: sad
+sad44: sad
+
+
+5.Surprise
+surprise1:surprise
+surprise2:fear
+surprise3:surprise
+surprise11: surprise
+surprise22: surprise
+surprise33: fear
+surprise55: surprise
+
+6.Neurtral
+neutral2: neutral
+neutral3: neutral
+neutral4: sad
+neutral5: neutral
+neutral6: neutral
+neutral7: neutral
+
+
+LeNet
+0.Angry
+angry1: angry
+angry2: fear
+angry3: angry
+angry4: angry
+angry33: angry
+
+1.Disgust
+disgust1: Fear
+disgust2: Fear
+disgust3: Fear
+disgust6: Fear
+disgust7: Fear
+disgust9: Fear
+
+2.Fear
+fear1: fear
+fear2: happy
+fear3: fear
+fear11: fear
+
+
+
+3.happy
+happy1: happy
+happy2: happy
+happy3: fear
+happy4: happy
+
+
+4. Sad
+sad1:sad
+sad2:angry
+sad3:fear
+sad4:angry
+sad5: angry
+sad6: sad
+sad7: happy
+sad8: fear
+sad9: sad
+sad22: happy
+sad44: surprise
+
+
+5.Surprise
+surprise1:surprise
+surprise2:surprise
+surprise3:surprise
+surprise11: fear
+surprise22: happy
+surprise33: surprise
+surprise55: fear
+
+6.Neurtral
+neutral2: sad
+neutral3: sad
+neutral4: sad
+neutral5: angry
+
+
+
+our images
+mefear: fear
+mehappy: happy
+meangry: fear
+mesad: angry
+medisgust: happy
+
+our images
+mefear:fear
+mehappy:happy
+meangry:angry
+mesad:angry
+medisgust:happy
+
+
+
+
+
